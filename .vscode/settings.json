@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "~/envs/example-awssso/bin/python",
+  "python.autoComplete.extraPaths": [
+    "~/envs/example-awssso/lib/python3.7/site-packages/"
+  ],
+  "files.exclude": {
+    "**/__pycache__": true
+  }
+}
