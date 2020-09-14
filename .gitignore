@@ -138,6 +138,8 @@ dmypy.json
 cython_debug/
 
 # python3-saml
-saml
+saml/*
+!.gitkeep
 
-certs
+certs/*
+!.gitkeep
